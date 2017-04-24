@@ -22,3 +22,5 @@ Agora sobre o Blog, assim como a maioria dos desenvolvedores, sempre tive a vont
 Assim, minha motivação, objetivo e visão é simplesmente espalhar o conhecimento que adquiro a um custo relativamente justo: aprender com o seu conhecimento, caro leitor. Sim, mais do que tentar ensinar ou espalhar o conhecimento, eu estou aqui para aprender. Sempre! Então não exite em demonstrar que estou errado em alguma colocação ou me apresentar maneiras melhores de explorar algo que tenha a ver com minhas postagens, bem como, não pense duas vezes antes de sugerir algo novo, certo? ;)
 
 E aí, está pronto para me acompanhar nessa jornada? Pegue seu café e hey ho, let's go!
+
+PS: Não se esqueça de me acompanhar em outras redes. Todos os meus contatos se encontram no rodapé do blog! I hope to see you there :D
