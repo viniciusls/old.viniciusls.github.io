@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Olá e quem sou eu!
-bigimg: /img/hello_world.jpeg
+bigimg: /img/first_post.jpg
 tags: [aboutme,apresentacao]
 ---
 
