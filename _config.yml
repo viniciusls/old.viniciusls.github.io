@@ -81,7 +81,7 @@ url-pretty: "blog.viniciusls.com.br"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "https-blog-viniciusls-com-br"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-46648049-3"

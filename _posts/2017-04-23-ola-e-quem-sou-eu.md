@@ -3,6 +3,7 @@ layout: post
 title: Olá e quem sou eu!
 bigimg: /img/first_post.jpg
 tags: [aboutme,apresentacao]
+comments: true
 ---
 
 Olá amigo(a)! Como vai você?
