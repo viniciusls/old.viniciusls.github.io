@@ -61,8 +61,9 @@ console.log(DudeNameSpace.name); // Vinícius
 
 **4. Instanciar múltiplas variáveis sem a palavra-chave var**
 
+
+
 {% highlight javascript %}
-Sim, assim como em Java, você pode instanciar múltiplas variáveis de uma só vez separando-as com uma vírgula. Isso funciona da seguinte forma:
 var someItem = 'some string',
   anotherItem = 'another string',
   oneMoreItem = 'one more string';
