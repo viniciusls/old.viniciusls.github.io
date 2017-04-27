@@ -15,6 +15,7 @@ Como em todo tipo de programação, especialmente em linguagens emergentes e/ou 
 Como dito anteriormente, o JavaScript é uma linguagem com tipagem fraca e dinâmica. Como tal, dispõe-se de dois tipos de operadores de igualdade:
 
 a) === e !==;
+
 b) == e !=;
 
 Mas qual a diferença?
