@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre mim
-subtitle: Desenvolvedor, 20 anos, Gamer, São Paulino e Indaiatubano.
+title: Vinícius Silva - Sobre mim
+subtitle: Desenvolvedor, 21 anos, Gamer, São Paulino e Indaiatubano.
 ---
 
 Meu nome é Vinícius Silva e, além dos detalhes acima, desenvolvo há alguns anos, principalmente, nas seguintes linguagens:
