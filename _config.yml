@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Vinícius L. Silva - Desenvolvimento e tecnologia
+title: VLDev Blog - Desenvolvimento e tecnologia
 
 # Short description of your site
-description: Um blog pessoal para compartilhar conhecimentos sobre desenvolvimento e tecnologia no intuito de ensinar e aprender sempre!
+description: Um blog pessoal por Vinícius Silva para compartilhar conhecimentos sobre desenvolvimento e tecnologia no intuito de ensinar e aprender sempre!
 
 # --- Navigation bar options --- #
 

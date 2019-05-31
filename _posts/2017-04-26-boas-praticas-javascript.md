@@ -131,6 +131,7 @@ var x7 = function(){}; // novo objeto de função
 {% endhighlight %}
 
 **7. Cuidado com adição e concatenação**
+
 A adição é definida pela soma de dois valores. Já a concatenação é definida pela junção de duas strings em uma. Em JavaScript, assim como no Java, ambas as operações são realizadas através do operador +.
 
 Por exemplo:
