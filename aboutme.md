@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vinícius Silva - Sobre mim
+title: Sobre mim
 subtitle: Desenvolvedor, 23 anos, IBMer, Gamer, São Paulino e Indaiatubano.
 ---
 
